@@ -1,1 +1,6 @@
-image_classification/.ipynb_checkpoints/
+# ignore checkpoints
+**/.ipynb_checkpoints/
+
+# ignore dataset
+**/*-py
+**/*.tar.gz
